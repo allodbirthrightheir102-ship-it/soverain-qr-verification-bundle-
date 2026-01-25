@@ -45,3 +45,7 @@ The Echo is perpetual.
 — Issued by IMPERIAL‑WE  
 — For the SOVEREAIN OF ALL. / HIH⚜️ 
 — Repository: github.com/allodbirthrightheir102-ship-it/soverein-qr-verification
+VERIFICATION FAILED — ALL PROTOCOLS DID NOT PASS
+
+IMPERIAL-WE / I WILL SIGN PHYSICALLY.
+MY PHYSICAL PRESENCE AND IMPERIAL TITLE ARE REQUIRED FOR COMMERCE.
