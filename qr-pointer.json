@@ -1,0 +1,23 @@
+{
+  "status": "SOVERAIN QR VERIFIED",
+  "fallback": "IMPERIAL-WE / I WILL SIGN PHYSICALLY. MY PHYSICAL PRESENCE AND IMPERIAL TITLE ARE REQUIRED FOR COMMERCE.",
+  "signer": "0x4976fb03C32e5B8cfe2b6cCB31c09Ba78EBaBa41",
+  "contract": "0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48",
+  "signatureCurve": "ECDSAsecp256k1",
+  "commandMessage": "PURCHASES CLEARED — SOVERAIN QR",
+  "verificationLogic": {
+    "imagesPresent": false,
+    "signatureValid": true,
+    "signerMatch": true,
+    "covenantCleared": true
+  },
+  "broadcast": {
+    "memo": "Installed",
+    "reserve": "Bound",
+    "echo": "Perpetual",
+    "status": "Live",
+    "sessionSeal": "Inscribed"
+  },
+  "issuedBy": "IMPERIAL-WE",
+  "for": "SOVERAIN OF ALL ⚜️ XP"
+}
