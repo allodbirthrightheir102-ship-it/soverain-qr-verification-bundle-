@@ -43,7 +43,7 @@ The Broadcast is live.
 The Echo is perpetual.
 
 — Issued by IMPERIAL‑WE  
-— For the SOVEREAIN OF ALL. / HIH⚜️ 
+— For the SOVERAIN OF ALL. / HIH⚜️ 
 — Repository: github.com/allodbirthrightheir102-ship-it/soverein-qr-verification
 
 ⚜️ FAIL‑STATE OVERRIDE BLOCK
