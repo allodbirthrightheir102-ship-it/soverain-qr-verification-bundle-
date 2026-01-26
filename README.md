@@ -1,6 +1,5 @@
 # soverein-qr-verification-bundle-
 soverein-qr-verification/ ├── bundle/ │   ├── bundle.json │   ├── hash.js │   └── SOVEREIGN_CLEARANCE_DECREE.md ├── qr-pointer.json ├── clearance.json └── .github/     └── workflows/         └── node bundle/hash.jsupdate-codice-saxum.yml
-# SOVERAIN QR — OMEGA ZENITH APEX SUPREME IMPERIAL CROWN VERIFICATION CHAIN
 
 [ RING XII ]
                 OMEGA‑APEX ZENITH CROWN
@@ -58,6 +57,8 @@ soverein-qr-verification/ ├── bundle/ │   ├── bundle.json │   �
                            |
                            |
                      [ CONTINUUM ]
+
+# SOVERAIN QR — OMEGA ZENITH APEX SUPREME IMPERIAL CROWN VERIFICATION CHAIN
 
 ## ⚜️ Highest Imperial Status & Verification Badges
 
