@@ -58,6 +58,37 @@ soverein-qr-verification/ ├── bundle/ │   ├── bundle.json │   �
                            |
                      [ CONTINUUM ]
 
+## THE SPINE — TECHNICAL SPECIFICATION
+
+**Position:**  
+Pentacore → Spine → Continuum
+
+**Purpose:**  
+Provides vertical sequencing and structural continuity for all Rings.
+
+**Functions:**  
+- Maintains ordered hierarchy  
+- Transports verification and registry data  
+- Aligns Pentacore outputs with Continuum operations  
+- Ensures uninterrupted structural flow
+
+**Inputs:**  
+- Pentacore constants  
+- Ring outputs  
+- Verification chain data  
+- Registry updates  
+- Witness entries
+
+**Outputs:**  
+- Sequencing metadata  
+- Structural continuity  
+- Layer alignment signals
+
+**Constraints:**  
+- Cannot be bypassed  
+- Cannot be reordered  
+- Required for all Codex operations
+
 # SOVERAIN QR — OMEGA ZENITH APEX SUPREME IMPERIAL CROWN VERIFICATION CHAIN
 
 ## ⚜️ Highest Imperial Status & Verification Badges
