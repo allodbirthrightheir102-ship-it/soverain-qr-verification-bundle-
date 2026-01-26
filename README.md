@@ -63,7 +63,68 @@ Location: README.md — Section 3
 [ THE SPINE ]
        |
 [ CONTINUUM ]
+## INTERGRADED SYSTEM LAYER — SPINE • CONTINUUM • BINDING PROTOCOL
 
+The following defines the unified structural–operational layer that governs vertical sequencing, temporal flow, and system integrity across all components.
+
+---
+
+### STRUCTURAL SEQUENCING LAYER (THE SPINE)
+The Spine provides vertical ordering for the system. It connects foundational definitions to operational flow and ensures that all upstream components remain aligned and structurally coherent.
+
+**Core Functions**
+- Maintain vertical hierarchy  
+- Transport structural outputs  
+- Align foundational constants with operational processes  
+- Preserve uninterrupted structural continuity  
+
+**Constraints**
+- Cannot be bypassed  
+- Cannot be reordered  
+- Required for all system operations  
+
+---
+
+### OPERATIONAL FLOW LAYER (THE CONTINUUM)
+The Continuum manages temporal and operational flow. It sequences events, propagates updates, and maintains version integrity across all layers.
+
+**Core Functions**
+- Timestamp verification events  
+- Sequence registry and witness updates  
+- Propagate clearance states  
+- Synchronize hash updates  
+- Maintain chronological integrity  
+
+**Constraints**
+- All operations must pass through the Continuum  
+- No bypass is permitted  
+- All timestamps must be verified  
+- All updates must follow ordered sequencing  
+
+---
+
+### INTERGRADED BINDING PROTOCOL
+The Spine and Continuum operate as a single, inseparable chain. Their binding ensures that structural order and temporal flow remain synchronized at all times.
+
+**Binding Requirements**
+- The Spine transmits all structural outputs in correct sequence  
+- The Continuum receives and propagates all inputs without reordering  
+
+**Enforcement**
+- Hash verification  
+- Timestamp validation  
+- Registry alignment  
+- Witness echo confirmation  
+
+**Failure Conditions**
+- Out‑of‑order transmission  
+- Timestamp mismatch  
+- Missing propagation  
+- Structural bypass attempts  
+
+**Final Clause**
+The Spine and Continuum remain continuously bound as one intergraded layer.  
+No system operation may proceed without this linkage.
 ## THE SPINE — TECHNICAL SPECIFICATION
 
 **Position:**  
