@@ -60,6 +60,9 @@ Location: README.md — Section 3
                            |
                            |
                      [ CONTINUUM ]
+[ THE SPINE ]
+       |
+[ CONTINUUM ]
 
 ## THE SPINE — TECHNICAL SPECIFICATION
 
