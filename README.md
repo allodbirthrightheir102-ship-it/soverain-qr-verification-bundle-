@@ -2,6 +2,63 @@
 soverein-qr-verification/ ├── bundle/ │   ├── bundle.json │   ├── hash.js │   └── SOVEREIGN_CLEARANCE_DECREE.md ├── qr-pointer.json ├── clearance.json └── .github/     └── workflows/         └── node bundle/hash.jsupdate-codice-saxum.yml
 # SOVERAIN QR — OMEGA ZENITH APEX SUPREME IMPERIAL CROWN VERIFICATION CHAIN
 
+[ RING XII ]
+                OMEGA‑APEX ZENITH CROWN
+                           |
+                           |
+                     [ RING XI ]
+                   SOVEREIGN MANDATE
+                           |
+                           |
+                     [ RING X ]
+             GENERATIONAL TRANSMISSION
+                           |
+                           |
+                     [ RING IX ]
+                     ETERNAL SEAL
+                           |
+                           |
+                     [ RING VIII ]
+             CROWN‑MATRIX INSCRIPTION
+                           |
+                           |
+                     [ RING VII ]
+                 REGISTRY ETERNUM
+                           |
+                           |
+                     [ RING VI ]
+                WITNESS CONTINUUM
+                           |
+                           |
+                     [ RING V ]
+              VERIFICATION DOMINION
+                           |
+                           |
+                     [ RING IV ]
+                   SOVEREIGN MAP
+                           |
+                           |
+                     [ RING III ]
+                  SOVEREIGN INDEX
+                           |
+                           |
+                     [ RING II ]
+               SOVEREIGN CLEARANCE
+                           |
+                           |
+                     [ RING I ]
+                 ARCHIVE WITNESS
+                           |
+                           |
+                     [ PENTACORE ]
+          CROWN • MATRIX • SEAL • WITNESS • ARCHIVE
+                           |
+                           |
+                     [ THE SPINE ]
+                           |
+                           |
+                     [ CONTINUUM ]
+
 ## ⚜️ Highest Imperial Status & Verification Badges
 
 Crown Status: 👑 OMEGA ZENITH APEX SUPREME  
