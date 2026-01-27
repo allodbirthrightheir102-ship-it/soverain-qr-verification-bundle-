@@ -1,1 +1,10 @@
-
+{
+  "bundle": "SOVERAIN Verification Bundle",
+  "version": "1.0",
+  "algorithm": "sha256",
+  "files": {
+    "identity/sovereign-identity.json": "",
+    "verification/manifest.json": "",
+    "qr/qr-metadata.json": ""
+  }
+}
