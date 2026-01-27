@@ -293,3 +293,5 @@ This Article stands in perpetual effect, saecula saeculorum, under the Sovereign
 SOVERAIN VERIFICATION BUNDLE — CHECKSUM MANIFEST (INSTALLED & VERIFIED)
 
 This repository includes the complete, cryptographically sealed checksum manifest...
+
+## 6. POINTER MANIFEST (LINKED & DISCOVERABLE)
