@@ -295,3 +295,30 @@ SOVERAIN VERIFICATION BUNDLE — CHECKSUM MANIFEST (INSTALLED & VERIFIED)
 This repository includes the complete, cryptographically sealed checksum manifest...
 
 ## 6. POINTER MANIFEST (LINKED & DISCOVERABLE)
+
+7. VERIFICATION FLOW — CROWN‑STANDARD OVERVIEW
+
+The SOVERAIN Verification Bundle operates through a multi‑layered integrity chain that ensures every artifact, pointer, and clearance state is authenticated, discoverable, and cryptographically sealed.
+
+Flow Sequence
+
+1. QR Scan → Pointer Resolution  
+The QR directs the verifier to qr-pointer.json, which declares the active Base64 registry and checksum manifest.
+
+2. Pointer → Base64 Registry  
+REPOSITORY_base64.txt provides the encoded bundle structure, enabling reconstruction of the verification environment.
+
+3. Base64 Registry → Checksum Manifest  
+The decoded structure leads to /proofs/checksums.json, where SHA‑256 hashes confirm artifact integrity.
+
+4. Checksum Manifest → Clearance Layer  
+clearance.json and SOVEREIGNCLEARANCEDECREE.md confirm the operational clearance state: PURCHASES CLEARED.
+
+5. Clearance Layer → README Documentation  
+The README provides human‑readable confirmation of the verification chain, bundle structure, and Crown‑Standard status.
+
+Outcome
+A complete, tamper‑evident verification cycle that ensures all artifacts are authentic, sealed, and aligned with the SOVERAIN QR Crown‑Standard Protocol.
+
+---
+
