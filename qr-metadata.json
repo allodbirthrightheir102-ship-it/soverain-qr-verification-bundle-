@@ -1,1 +1,9 @@
-
+{
+  "type": "identity-qr",
+  "version": "1.0",
+  "ens": "the.holy.high.imperial.house.of.dwd.eth",
+  "address": "0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48",
+  "repository": "https://github.com/SOVERAIN-QR/SOVERAIN-Verification-Bundle",
+  "pointer": "verification/pointer.json",
+  "issued": "2026-01-27"
+}
