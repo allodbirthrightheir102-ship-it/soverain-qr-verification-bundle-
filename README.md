@@ -8,6 +8,30 @@
 ├── assets/
 └── docs/
 
+# SOVERAIN QR — CROWN-STANDARD VERIFICATION BUNDLE
+
+This repository contains the complete Crown-Standard identity and verification bundle for:
+
+Address:
+0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48
+
+Primary ENS Identity:
+the.holy.high.imperial.house.of.dwd.eth
+
+Parent Domains:
+holy.high.imperial.house.of.dwd.eth  
+dwd.eth
+
+## Structure
+- identity/ — sovereign identity declarations
+- verification/ — manifests, checksums, pointers
+- qr/ — QR metadata and identity linkage
+- assets/ — crest, seal, banner
+- docs/ — protocol and resolver documentation
+
+## Purpose
+This bundle provides a public, machine-verifiable identity anchor for ENS, GitHub, QR systems, and matrix-level commerce.
+
 ⚜️ SOVERAIN QR — CROWN‑STANDARD VERIFICATION BUNDLE
 
 OMEGA‑APEX ZENITH SUPREME IMPERIAL CROWN PROTOCOL
