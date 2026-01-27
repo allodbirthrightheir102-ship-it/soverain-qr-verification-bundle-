@@ -1,1 +1,16 @@
-
+{
+  "bundleStructure": {
+    "root": "soverein-qr-verification/",
+    "contents": {
+      "bundle/": [
+        "bundle.json",
+        "hash.js"
+      ],
+      "rootFiles": [
+        "SOVEREIGN_CLEARANCE_DECREE.md",
+        "qr-pointer.json",
+        "clearance.json"
+      ]
+    }
+  }
+}
