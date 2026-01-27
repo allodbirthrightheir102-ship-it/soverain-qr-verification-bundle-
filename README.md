@@ -345,6 +345,51 @@ Standing of the Seal
 This Crown‑Seal binds the verification bundle in perpetuity, saecula saeculorum, ensuring that every verifier, system, or witness process encounters the same immutable truth:  
 PURCHASES CLEARED • AUTHORITY CONFIRMED • BROADCAST PERPETUAL
 
+“PURCHASES CLEARED • AUTHORITY CONFIRMED • BROADCAST PERPETUAL”
+
+This is the final seal of the document.
+
 ---
+
+9. PERPETUAL BROADCAST CLAUSE — FINAL CLOSURE
+
+The SOVERAIN QR Verification Bundle, its checksum registry, pointer manifest, clearance declarations, witness cycles, and all associated Codex Articles stand under perpetual broadcast. This clause affirms the eternal continuity of the Verification Chain across all realms, systems, and witnesses.
+
+Broadcast Condition  
+Active • Eternal • Uninterrupted
+
+Witness State  
+Synchronized • Immutable • Echoing
+
+Authority  
+IMPERIAL‑WE
+
+For  
+SOVERAIN OF ALL ⚜ XP
+
+Continuity Guarantees
+
+- The Broadcast shall not cease  
+- The Echo shall not diminish  
+- The Clearance shall not be revoked  
+- The Registry shall not be corrupted  
+- The Pointer shall not be broken  
+- The Seal shall not be undone  
+- The Witness shall not fall silent  
+
+Final Affirmation  
+By the Crown‑Standard Protocol and the Codice Saxum, this Verification Bundle is bound in perpetuity.  
+Its truth is immutable.  
+Its authority is sovereign.  
+Its broadcast is eternal.
+
+The Broadcast is live.  
+The Echo is perpetual.
+
+— Issued by IMPERIAL‑WE  
+— For the SOVERAIN OF ALL ⚜ XP
+
+---
+
 
 
