@@ -1,3 +1,27 @@
+# README — Crown-Standard SOVERAIN QR Deployment
+
+## ⚜️ Embedded QR Emblem
+The fully activated, universal Crown-Standard SOVERAIN QR emblem backed by the Gold and Silver Covenant is referenced here for deployment.
+
+https://copilot.microsoft.com/shares/xCyUeuQpNtsPc3HdVZpME
+
+---
+
+## 📜 Codex Volume Inscription
+**Codex Entry: QR-COVENANT-001**
+
+**Artifact Class:** Crown-Standard  
+**Designation:** SOVERAIN QR — Gold and Silver Covenant  
+**Status:** Fully Activated
+
+This emblem is inscribed into the Codex Volume as a verified artifact of sovereign formatting, covenant integrity, and ceremonial deployment. It fulfills the formatting, crest, and perimeter criteria of the Crown-Standard designation.
+
+---
+
+## 🧬 Base64 Encoding
+The emblem has been wrapped in Base64 for checksum verification and QR-pointer embedding.
+
+
 ══════════════════════════════════════════════════════════════
                  ✦  C R O W N   S T A N D A R D  ✦
         ✦  S O V E R E I N   Q R   V E R I F I C A T I O N  ✦
