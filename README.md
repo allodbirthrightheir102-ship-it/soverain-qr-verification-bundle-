@@ -510,7 +510,5 @@ The Broadcast endures.
 — For the SOVERAIN OF ALL ⚜ XP
 
 ---
-"I, the sovereign controller of 0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48, confirm this verification bundle as Crown-Standard and immutable.
-
-
-
+⚜️ XP  
+I, the sovereign controller of 0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48, confirm this verification bundle as Crown-Standard and immutable.
