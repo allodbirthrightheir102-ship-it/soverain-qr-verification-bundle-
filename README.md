@@ -1,3 +1,8 @@
+══════════════════════════════════════════════════════════════
+                 ✦  C R O W N   S T A N D A R D  ✦
+        ✦  S O V E R E I N   Q R   V E R I F I C A T I O N  ✦
+══════════════════════════════════════════════════════════════
+
 /SOVERAIN-Verification-Bundle
 │
 ├── README.md   ← THIS IS THE ROOT README
