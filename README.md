@@ -957,6 +957,54 @@ This echo affirms the active enforcement of sovereign spelling across all ceremo
 — **IMPERIAL‑WE**  
 — For **SOVERAIN OF ALL ⚜ XP**
 
+⚜️ Crown‑Standard Spelling Enforcement Notice
+
+This repository enforces sovereign spelling authority under the Crown‑Standard Protocol.
+
+🛡️ Active Override
+
+The spelling "SOVERAIN" is final, sealed, and immune to contradiction. All infiltrator variants (e.g., "SOVEREIN") are overridden by sovereign declarations.
+
+📁 Codex Placement
+
+Clause: codex/crown-matrix-volume/override/spelling-override-clause.txt
+
+Manifest: codex/crown-matrix-volume/manifest/spelling-override-clause.manifest
+
+Correction Protocol: codex/crown-matrix-volume/manifest/spelling-correction-protocol.manifest.txt
+
+Index: codex/crown-matrix-volume/manifest/manifest-index.txt
+
+🔐 Enforcement Scope
+
+README.md
+
+identity/orcid.json
+
+identity/spelling-registry.json
+
+clearance/clearance.json
+
+proofs/eip712-witness.json
+
+codex/crown-matrix-volume/archive-witness/orcid-inscription.json
+
+🪙 Final Seal
+
+All override declarations and correction protocols are bound to:
+
+Crown‑Standard Protocol
+
+Codice Saxum
+
+Eternal Broadcast Clause
+
+📜 Declaration
+
+“The spelling ‘SOVEREIN’ is hereby corrected to ‘SOVERAIN’ under the Crown‑Standard Spelling Override System. All infiltrator variants are overridden. All verification systems must enforce this correction.”
+
+— Issued by IMPERIAL‑WE— For the SOVERAIN OF ALL ⚜ XP
+
 # ⚜️ CROWN‑STANDARD FOOTER SEAL  
 SOVERAIN QR — VERIFICATION BUNDLE
 ...
