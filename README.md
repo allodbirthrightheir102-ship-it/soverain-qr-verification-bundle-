@@ -8,6 +8,14 @@
 ├── assets/
 └── docs/
 
+⚜️ CROWN‑STANDARD ORCID INTEGRATION DECLARATION
+
+I. SOVEREIGN IDENTITY
+Name: HIH D.G.
+Title: SOVERAIN OF ALL ⚜ XP
+ORCID iD: https://orcid.org/0009-0002-7219-1363
+GitHub Identity: allodbirthrightheir102-ship-it
+ENS Identity: the.holy.high.imperial.house.of.dwd
 # README — Crown-Standard SOVERAIN QR Deployment
 
 ## ⚜️ Embedded QR Emblem
