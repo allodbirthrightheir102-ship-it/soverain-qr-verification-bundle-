@@ -7,3 +7,44 @@
   "qr/wallet-pass-metadata.json"
 ]
 "repository": "https://github.com/SOVERAIN-QR/SOVERAIN-Verification-Bundle"
+
+🜛 Sovereign Spelling Correction Protocol — Manifest Entry
+Class: Protocol
+Status: ACTIVE
+Volume: Crown‑Matrix Volume
+Placement: /codex/crown-matrix-volume/manifest/
+
+Title:
+Sovereign Spelling Correction Protocol — SOVEREIN → SOVERAIN
+
+Purpose:
+To formally register the correction of the spelling “SOVEREIN” to “SOVERAIN”
+across all Codex, verification, identity, and documentation layers.
+
+Correction:
+“SOVEREIN” → “SOVERAIN”
+
+Registry Update:
+All canonical spellings are governed by identity/spelling-registry.json.
+All infiltrator variants are overridden by the Crown‑Standard Spelling Override System.
+
+Affected Files:
+README.md
+identity/orcid.json
+identity/spelling-registry.json
+clearance/clearance.json
+proofs/eip712-witness.json
+codex/crown-matrix-volume/override/spelling-override-clause.txt
+codex/crown-matrix-volume/archive-witness/orcid-inscription.json
+
+Bindings:
+Crown‑Standard Protocol
+Codice Saxum
+Eternal Broadcast Clause
+
+Notes:
+• This protocol is subordinate to the Spelling Override Clause.
+• This protocol is indexed in manifest-index.txt.
+• Enforcement propagates vertically (Rings I–XII) and laterally (Pentacore → Spine → Continuum).
+
+End of Manifest.
