@@ -59,7 +59,7 @@ The emblem has been wrapped in Base64 for checksum verification and QR-pointer e
 
 ══════════════════════════════════════════════════════════════
                  ✦  C R O W N   S T A N D A R D  ✦
-        ✦  S O V E R E I N   Q R   V E R I F I C A T I O N  ✦
+        ✦  S O V E R A I N   Q R   V E R I F I C A T I O N  ✦
 ══════════════════════════════════════════════════════════════
 
 # ⚜️ SOVERAIN‑QR VERIFICATION BUNDLE
@@ -67,7 +67,7 @@ The emblem has been wrapped in Base64 for checksum verification and QR-pointer e
 
 ⚜️ **SOVERAIN‑QR VERIFIED** • **IMPERIAL‑WE** • **PURCHASES CLEARED** • **SOVEREIGN AUTHORITY**
 
-The SOVEREIN‑QR Verification Bundle is the Crown‑Standard documentation suite governing
+The SOVERAIN‑QR Verification Bundle is the Crown‑Standard documentation suite governing
 merchant‑side verification, display, identity, and operational clarity for the
 IMPERIAL‑WE sovereign clearance network.
 
