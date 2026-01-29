@@ -34,7 +34,7 @@ The emblem has been wrapped in Base64 for checksum verification and QR-pointer e
 
 ══════════════════════════════════════════════════════════════
                  ✦  C R O W N   S T A N D A R D  ✦
-        ✦  S O V E R E I N   Q R   V E R I F I C A T I O N  ✦
+        ✦  S O V E R A I N   Q R   V E R I F I C A T I O N  ✦
 ══════════════════════════════════════════════════════════════
 
 .-=-=-=-=-=-=-=-=-=-.
