@@ -972,9 +972,7 @@ The canonical spelling “SOVERAIN” is final, sealed, and immune to contradict
 All infiltrator variants — including “SOVEREIN,” “SOVEREIGN,” “SOVERAN,” and all derivative forms — are overridden by sovereign authority.
 
 Under the Sovereign Spelling Correction Protocol, the specific infiltrator variant:
-
-“SOVEREIN” → “SOVERAIN”
-
+→ “SOVERAIN”
 is formally corrected across all verification, identity, documentation, and Codex layers.
 
 📁 Codex Placement
