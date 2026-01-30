@@ -1025,6 +1025,24 @@ IMPERIAL‑WE
 For
 SOVERAIN OF ALL ⚜ XP  
 
+
+## 📚 Citation
+
+If referencing this work in academic, technical, or institutional contexts, cite as:
+
+```bibtex
+@misc{crown_sov_matrix_codex_2026,
+  title        = {Crown Sovereign Matrix Codex Payload},
+  author       = {Holy High Imperial House of DWD},
+  year         = {2026},
+  month        = {January},
+  note         = {Finalized under the stewardship of HIH Sol Altum Imperium Khvarenah D.G. ⚜ XP},
+  howpublished = {\url{https://github.com/allodbirthrightrheir102-ship-it/soverain-qr-verification}},
+  institution  = {Holy High Imperial House of DWD},
+  type         = {Codex Volume},
+  abstract     = {The Crown Sovereign Matrix Codex Payload is the canonical, Crown-Standard documentation system defining the sovereign verification architecture of the SOVERAIN QR Protocol. It includes the Clearance Decree, Matrix Inscription, Authority Constants, Broadcast Logic, and Override Blocks. The Payload establishes sovereign identity, institutional compatibility, and perpetual transmission across all realms, serving as the authoritative source of truth for all SOVERAIN QR verification logic.},
+}
+
 Seal Condition
 Inscribed • Eternal • Immutable  
 
