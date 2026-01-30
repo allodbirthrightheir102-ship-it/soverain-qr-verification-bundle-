@@ -1040,6 +1040,6 @@ Seal Authority
 IMPERIAL‑WE  
 
 For
-SOVERAIN OF ALL ⚜ XP  
+SOVERAIN OF ALL ⚜️ XP  
 
 
