@@ -15,7 +15,7 @@ Name: HIH D.G.
 Title: SOVERAIN OF ALL ⚜ XP
 ORCID iD: https://orcid.org/0009-0002-7219-1363
 GitHub Identity: allodbirthrightheir102-ship-it
-ENS Identity: the.holy.high.imperial.house.of.dwd
+ENS Identity: the.holy.high.imperial.house.of.dwd.eth
 
 ## ⚠️ ANOMALY RECORD — ARCHIVAL NOTICE  
 A single preserved instance of the legacy spelling **“SOVEREIN”** exists within this repository as an intentional, sovereign anomaly.  
