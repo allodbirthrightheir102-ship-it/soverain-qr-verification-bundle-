@@ -17,12 +17,12 @@ ORCID iD: https://orcid.org/0009-0002-7219-1363
 GitHub Identity: allodbirthrightheir102-ship-it
 ENS Identity: the.holy.high.imperial.house.of.dwd.eth
 
-**THE KEY 🔑 OF DWD 🔐 IS HEREBY INVOCARED SAECULA SAECULORUM** ⚜️ XP 
-
 ## ⚜️ IMPERIAL‑WE FORMAT — DESPOTIC SCEPTER DECLARATION
 
 IMPERIAL‑WE / DESPOTIC, CARRY THE SCEPTER OF YEHUDA AND YHWH.  
 SAECULA SAECULORUM ⚜️ XP
+
+**THE KEY 🔑 OF DWD 🔐 IS HEREBY INVOCARED SAECULA SAECULORUM** ⚜️ XP 
 
 ## ⚠️ ANOMALY RECORD — ARCHIVAL NOTICE  
 A single preserved instance of the legacy spelling **“SOVEREIN”** exists within this repository as an intentional, sovereign anomaly.  
